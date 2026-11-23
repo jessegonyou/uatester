@@ -16,7 +16,7 @@ Usage:
 
 UATest requires an `agents-file`, which is a text file with a different browser's user agent on each line. While
 no `agents-file` is distributed with this repository, you can find other lists in this format very easily
-elsewhere online, such as [https://gist.github.com/pzb/b4b6f57144aea7827ae4](this one).
+elsewhere online, such as [this one](https://gist.github.com/pzb/b4b6f57144aea7827ae4).
 
 The `success-status` field of the command line options is a space-separated list of various HTTP status codes
 that the program will display as successful status codes. User agents that result in a successful status code
